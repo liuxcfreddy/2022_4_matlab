@@ -1,0 +1,1 @@
+y=fenduan(linspace(-10,10))
